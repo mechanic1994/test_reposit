@@ -1,4 +1,4 @@
-arbus = 4
+arbus = 8
 ogurec = 6
 ovo = (arbus + ogurec)
 print(ovo)
